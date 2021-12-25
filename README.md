@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/22 1:03 AM UTC
+			2021/12/23 1:01 AM UTC
 		</td>
 		<td>
 			9
@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/theepdinker/tracking/raw/master/graph/437337990/small/year.png" height="20"> 239
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/theepdinker/tracking/tree/master/readme/268832845/year.md">
-				theepdinker.github.io
-			</a>
-		</td>
-		<td>
-			2021/12/22 1:03 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/theepdinker/tracking/raw/master/graph/268832845/small/year.png" height="20"> 81
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/24 6:21 PM UTC</i></small>
+<small><i>Last updated on 2021/12/25 1:00 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
